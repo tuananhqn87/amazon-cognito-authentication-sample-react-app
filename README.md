@@ -2,11 +2,11 @@
 
 - Amplify Hosted UI
 
-  [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/aws-samples/amazon-cognito-authentication-sample-react-app/tree/main/hosted-ui)
+  [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/tuananhqn87/amazon-cognito-authentication-sample-react-app/tree/main/hosted-ui)
 
 - Amplify Custom Workflow
 
-  [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/aws-samples/amazon-cognito-authentication-sample-react-app/tree/main/custom-workflow)
+  [![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/tuananhqn87/amazon-cognito-authentication-sample-react-app/tree/main/custom-workflow)
 
 ## Security
 
